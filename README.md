@@ -14,3 +14,13 @@ The paper draft is available at https://arxiv.org/abs/2004.14254
 cd src/dialogue_system/run
 python run.py --help
 ```
+
+# Cite
+```
+@article{liao2020task,
+  title={Task-oriented Dialogue System for Automatic Disease Diagnosis via Hierarchical Reinforcement Learning},
+  author={Liao, Kangenbei and Liu, Qianlong and Wei, Zhongyu and Peng, Baolin and Chen, Qin and Sun, Weijian and Huang, Xuanjing},
+  journal={arXiv preprint arXiv:2004.14254},
+  year={2020}
+}
+```
